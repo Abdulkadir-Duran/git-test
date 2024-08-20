@@ -1,10 +1,14 @@
 
 body{
-    background: #f6f6f6;
+    background: #fff;
     display: flex;
     justify-content: center;
     align-items: center;
     margin: 5% auto;
+    
 
 
+}
+p{
+    color: #c6c6c6;
 }
